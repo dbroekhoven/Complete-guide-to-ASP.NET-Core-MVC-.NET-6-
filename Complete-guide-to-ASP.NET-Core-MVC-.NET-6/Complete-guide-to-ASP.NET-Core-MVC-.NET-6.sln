@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complete-guide-to-ASP.NET-Core-MVC-.NET-6", "Complete-guide-to-ASP.NET-Core-MVC-.NET-6\Complete-guide-to-ASP.NET-Core-MVC-.NET-6.csproj", "{666DC507-0757-4450-B11E-2DD848376DFE}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbbyWeb", "..\..\Courses-AbbyWeb\AbbyWeb\AbbyWeb.csproj", "{2671A59D-C8E7-467E-8167-52D95E9A1889}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBookWeb", "..\..\Courses-BulkyBook\BulkyBook\BulkyBookWeb\BulkyBookWeb.csproj", "{137EDA78-325D-46A3-9547-9611C0EB6F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{666DC507-0757-4450-B11E-2DD848376DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{666DC507-0757-4450-B11E-2DD848376DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{666DC507-0757-4450-B11E-2DD848376DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2671A59D-C8E7-467E-8167-52D95E9A1889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2671A59D-C8E7-467E-8167-52D95E9A1889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2671A59D-C8E7-467E-8167-52D95E9A1889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2671A59D-C8E7-467E-8167-52D95E9A1889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137EDA78-325D-46A3-9547-9611C0EB6F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137EDA78-325D-46A3-9547-9611C0EB6F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137EDA78-325D-46A3-9547-9611C0EB6F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137EDA78-325D-46A3-9547-9611C0EB6F92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
